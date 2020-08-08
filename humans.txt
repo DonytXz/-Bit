@@ -1,0 +1,47 @@
+
+                            
+/* TEAM */
+
+                            
+Your title: Donato Alvarez.
+
+                            
+Site: www.linkedin.com/in/donatoalvarezdev/
+
+                            
+Twitter: https://twitter.com/Donato_99
+
+                            
+Location: Guadalajara, Jal. Mexico
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Name: https://github.com/diegovr7/software-company-template
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 13/08/2020 
+
+                            
+Standards: HTML5, CSS3, JS
+
+                            
+Components: Boostrap, Jquery
+
+                            
+Software: Software used for an scholar proyect
+   
