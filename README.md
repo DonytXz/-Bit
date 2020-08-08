@@ -1,2 +1,2 @@
 # Bit
- Software Company for an school proyect.
+ Software company for an school proyect.
