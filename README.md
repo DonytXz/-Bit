@@ -1,5 +1,5 @@
 # Bit
-<p>Software company for an school proyect.</p>
+<p>Software company for an school proyect at the Technological University of Jalisco.</p>
 
 Version 1.0.0
 
