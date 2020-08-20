@@ -23,7 +23,8 @@ Location: Guadalajara, Jal. Mexico
 /* THANKS */
 
 							
-Name: https://github.com/diegovr7/software-company-template
+https://github.com/diegovr7/software-company-template
+https://github.com/EmanuelSantos77
 
 						
                  
